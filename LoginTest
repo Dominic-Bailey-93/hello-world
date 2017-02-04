@@ -1,2 +1,9 @@
-I want to create a page which asks for a login, then responds to the user input.
-If they are correct, it will take them to another page. If not, it will create an error.
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Login test system</title>
+  </head>
+  <body>
+    <h1>Please enter your login details below:</h1>
+  </body>
+</html>
